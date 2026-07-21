@@ -51,7 +51,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -89,6 +88,17 @@
 - Automatically generates 5–10 test cases covering edge cases and boundary conditions.
 
 `Python` `Google Gemini API` `Dynamic Programming` `AI Agents`
+
+---
+
+### 🃏 Azar Cafetero — Brisca Game Engine
+> Backend game engine for the traditional Spanish card game Brisca, built as a microservice that acts as the single source of truth for every active match — enforcing rules, managing state and providing AI opponents.
+
+- Implements a 40-card Spanish deck with cryptographically secure shuffling, trump suit tracking and strict turn-based state machine.
+- Custom heuristic AI that calculates optimal moves based on the current trick, trump suit and hand cards.
+- Containerized with Docker, integrated with SonarQube for continuous static code analysis and built with 6 collaborators across 27 branches.
+
+`Java` `Spring Boot` `Maven` `Docker` `SonarQube` `Game AI` `Microservices`
 
 ---
 
